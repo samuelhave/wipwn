@@ -1,5 +1,7 @@
 # WIPWN
 
+# Fork développé par samuelhave
+
 Fast and automated WiFi WPS PIN cracking tool with advanced attack features.
 
 > **⚠️ Note**: WIPWN is optimized for **Termux From F-Droid** on Android. For best results and compatibility, use Termux. Kali/Debian support is legacy.
